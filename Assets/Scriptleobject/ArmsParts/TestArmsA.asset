@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 32daa8d32240d0e4aaa8ed706cdbb73f, type: 3}
+  m_Name: TestArmsA
+  m_EditorClassIdentifier: 
+  ID: 0
+  Name: TestArmsA
+  HP: 5
+  FireArmMagnif: 1
+  MeleeWeaponMagnif: 1
