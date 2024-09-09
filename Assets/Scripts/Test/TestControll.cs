@@ -7,6 +7,10 @@ using UnityEngine.UIElements;
 public class TestControll : TestUnitController
 {
 
+
+    public Transform playercamera;
+
+
     //====================================================
     //      èâä˙âª
     //
@@ -46,6 +50,8 @@ public class TestControll : TestUnitController
         movement.x = InstanceManager.Instance.GetInputManagerInstance<IInputManager>().PlayerMoveHorizontal();
         movement.z = InstanceManager.Instance.GetInputManagerInstance<IInputManager>().PlayerMoveVertical();
 
+     
+
         if (movement.x != 0 || movement.z != 0)
         {
             AcitveMoveStateTrigger(moveState.move);
@@ -53,6 +59,7 @@ public class TestControll : TestUnitController
 
 
 
+       
         if (Input.GetKeyDown(KeyCode.Q))
         {
             Debug.Log("sw");

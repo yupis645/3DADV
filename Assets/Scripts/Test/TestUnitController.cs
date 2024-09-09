@@ -270,6 +270,14 @@ public class TestUnitController : MonoBehaviour
             Vector3 movement = Vector3.zero;
             movement.x = InstanceManager.Instance.GetInputManagerInstance<IInputManager>().PlayerMoveHorizontal();
             movement.z = InstanceManager.Instance.GetInputManagerInstance<IInputManager>().PlayerMoveVertical();
+
+            // カメラの方向から、X-Z平面の単位ベクトルを取得
+            Vector3 cameraForward = Vector3.Scale(Camera.main.transform.forward, new Vector3(1, 0, 1)).normalized;
+
+            // 方向キーの入力値とカメラの向きから、移動方向を決定
+            movement = cameraForward * movement.z + Camera.main.transform.right * movement.x;       //
+
+
             move(movement);
         }
     }

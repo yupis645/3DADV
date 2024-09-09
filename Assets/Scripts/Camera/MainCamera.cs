@@ -32,6 +32,7 @@ public class MainCamera : MonoBehaviour
 
     public Vector3 dirCorrection = Vector3.zero;
 
+    public Transform[] unit = new Transform[4];
     public Transform playerunit;
     public Transform stage;
 
@@ -49,7 +50,7 @@ public class MainCamera : MonoBehaviour
 
     void CameraPos()
     {
-        Transform target = null;
+        Vector3 target = Vector3.zero;
 
         Vector3 pos = Vector3.zero;
 
@@ -64,15 +65,14 @@ public class MainCamera : MonoBehaviour
                 z_rangeCorr = Z_range;
                 pos += new Vector3(X_range, stage.localScale.y + higicamera, Z_range);
 
-                target = stage;
-                target.position = new Vector3(pos.x,0,pos.z);
+                target= new Vector3(pos.x,0,pos.z);
                 break;
 
             case viewmode.Quarter:
-                pos = stage.position;
+                pos = (unit[0].transform.position + unit[1].transform.position) * 0.5f;
                 pos.y += stage.localScale.y + higicamera;
-                x_rangeCorr = X_range * (stage.localScale.x * 2) - radiusdistance;
-                z_rangeCorr = Z_range * (stage.localScale.z * 2) - radiusdistance;
+                x_rangeCorr = X_range *  - radiusdistance;
+                z_rangeCorr = Z_range * - radiusdistance;
 
                 if (cameradir == viewdirection.Positive_X) pos += new Vector3(stage.localScale.x - x_rangeCorr, 0, stage.localScale.x - z_rangeCorr);
                 else if (cameradir == viewdirection.Negative_X) pos += new Vector3(-stage.localScale.x + x_rangeCorr, 0, stage.localScale.x - z_rangeCorr);
@@ -80,7 +80,7 @@ public class MainCamera : MonoBehaviour
                 else if (cameradir == viewdirection.Negative_Z) pos += new Vector3(stage.localScale.x - x_rangeCorr, 0, -stage.localScale.x + z_rangeCorr);
 
 
-                target = playerunit;
+                target = pos;
                 break;
 
             case viewmode.Side:
@@ -93,7 +93,7 @@ public class MainCamera : MonoBehaviour
                 else if (cameradir == viewdirection.Positive_Z) pos.z += stage.localScale.z * z_rangeCorr;
                 else if (cameradir == viewdirection.Negative_Z) pos.z -= stage.localScale.z * z_rangeCorr;
 
-                target = stage;
+                target = stage.position;
                 break;
 
             case viewmode.PlayerBack:
@@ -104,20 +104,19 @@ public class MainCamera : MonoBehaviour
                 z_rangeCorr = Z_range * 360;
 
                 // 角度の度（degree）をラジアンにする
-                float radian = Mathf.Deg2Rad * x_rangeCorr;
+                float radian = Mathf.Deg2Rad * (x_rangeCorr - z_rangeCorr);
 
                 // 回転中の座標
                 pos += new Vector3(Mathf.Sin(radian), 0, Mathf.Cos(radian)) * radiusdistance;
-                target = playerunit;
+                target = playerunit.position;
                 break;
         }
+        
+        var aim = (target - pos) + dirCorrection;      //ワールド座標での注目対象との距離 + 距離の補正値(Vector3)
+        var look = Quaternion.LookRotation(aim);                //注目対象の方向の角度のQuatanionを取得
 
-        var aim = target.position - pos;
-        aim += dirCorrection;
-        var look = Quaternion.LookRotation(aim );
-
-        this.transform.localRotation = look;
-        this.transform.position = pos;
+        this.transform.localRotation = look;                    //向きを代入
+        this.transform.position = pos;                          //座標の代入
 
     }
 
