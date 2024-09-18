@@ -359,6 +359,8 @@
 "Assets/Scripts/BaseClass/protectedSingletonMonoBehaviour.cs"
 "Assets/Scripts/BaseClass/SingletonMonoBehaviour.cs"
 "Assets/Scripts/BaseClass/Weapon/ArmsWeaponParts.cs"
+"Assets/Scripts/Camera/CameraPosition.cs"
+"Assets/Scripts/Camera/CenterPoint.cs"
 "Assets/Scripts/Camera/MainCamera.cs"
 "Assets/Scripts/Data/CompositeComponentModule.cs"
 "Assets/Scripts/Data/Constants.cs"
