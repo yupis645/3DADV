@@ -1,7 +1,5 @@
 using System.Collections;
 using System.Collections.Generic;
-using System.Net;
-using Unity.VisualScripting;
 using UnityEngine;
 
 public class MainCamera : MonoBehaviour
@@ -31,7 +29,6 @@ public class MainCamera : MonoBehaviour
     public float Z_range;
     public float radiusdistance = 0;
     public float higicamera = 0;
-    public float zoomfacter = 0;
 
     public Vector3 dirCorrection = Vector3.zero;
 
@@ -39,24 +36,16 @@ public class MainCamera : MonoBehaviour
     public Transform playerunit;
     public Transform stage;
 
-    private Vector3 nowpos = Vector3.zero;
-    public float cavespeed = 0;
-    public float zoommag = 0;
-
     // Start is called before the first frame update
     void Start()
     {
-        if(stage != null)
-        {
-            nowpos = stage.position + new Vector3(stage.localScale.x / 2,0, stage.localScale.z / 2);
-            cameradir = viewdirection.Positive_X;
-        }
+        
     }
 
     // Update is called once per frame
     void Update()
     {
-     //   CameraPos();
+        CameraPos();
     }
 
     void CameraPos()
@@ -80,31 +69,18 @@ public class MainCamera : MonoBehaviour
                 break;
 
             case viewmode.Quarter:
-                // 2つのオブジェクトの中心位置を計算
-                Vector3 CenterPos = (unit[0].position + unit[1].position) * 0.5f;         //2体のオブジェクトの中心座標
-                float distance = Vector3.Distance(unit[0].position, unit[1].position);
+                pos = (unit[0].transform.position + unit[1].transform.position) * 0.5f;
+                pos.y += stage.localScale.y + higicamera;
+                x_rangeCorr = X_range *  - radiusdistance;
+                z_rangeCorr = Z_range * - radiusdistance;
 
-                pos = CenterPos;
-                pos.y = higicamera + (distance * 0.4f);
-
-                x_rangeCorr = X_range * 360;
-                z_rangeCorr = Z_range * 360;
-
-                // 角度の度（degree）をラジアンにする
-                float radianz = Mathf.Deg2Rad * (x_rangeCorr - z_rangeCorr);
-
-                // 回転中の座標
-                pos += new Vector3(Mathf.Sin(radianz), 0, Mathf.Cos(radianz)) * radiusdistance;
+                if (cameradir == viewdirection.Positive_X) pos += new Vector3(stage.localScale.x - x_rangeCorr, 0, stage.localScale.x - z_rangeCorr);
+                else if (cameradir == viewdirection.Negative_X) pos += new Vector3(-stage.localScale.x + x_rangeCorr, 0, stage.localScale.x - z_rangeCorr);
+                else if (cameradir == viewdirection.Positive_Z) pos += new Vector3(-stage.localScale.x + x_rangeCorr, 0, -stage.localScale.x + z_rangeCorr);
+                else if (cameradir == viewdirection.Negative_Z) pos += new Vector3(stage.localScale.x - x_rangeCorr, 0, -stage.localScale.x + z_rangeCorr);
 
 
-                //if (cameradir == viewdirection.Positive_X) pos += new Vector3(CenterPos.x - distance, Mathf.Abs(distance), CenterPos.x - z_rangeCorr);
-                //else if (cameradir == viewdirection.Negative_X) pos += new Vector3(-CenterPos.x + x_rangeCorr, Mathf.Abs(distance), CenterPos.z - z_rangeCorr);
-                //else if (cameradir == viewdirection.Positive_Z) pos += new Vector3(-CenterPos.x + x_rangeCorr, Mathf.Abs(distance), -CenterPos.z + z_rangeCorr);
-                //else if (cameradir == viewdirection.Negative_Z) pos += new Vector3(CenterPos.x - x_rangeCorr, Mathf.Abs(distance), -CenterPos.z + z_rangeCorr);
-
-                target = CenterPos;
-
-
+                target = pos;
                 break;
 
             case viewmode.Side:
