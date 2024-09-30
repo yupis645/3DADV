@@ -26,4 +26,5 @@ class AssembledUnit
         status.HP = chara.HP + arms.HP + legs.HP;   //アーム、レッグパーツステータスからHPをユニットステータスに加算
         status.MoveSpeed += legs.AddSpeed;          //ユニットステータスにレッグパーツの速度上昇を付与する
     }
+
 }

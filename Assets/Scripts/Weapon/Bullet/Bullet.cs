@@ -59,7 +59,7 @@ public class Bullet : MonoBehaviour
         //オブジェクトの破棄判定
         if (IsDestruction()) Destroy(gameObject);               //メソッドでtrueが帰ってきたらここでオブジェクトを破壊する
 
-        transform.position += ShotBehaviorUpdate();
+        (transform.position,transform.rotation) = ShotBehaviorUpdate();
 
 
         // 爆風範囲内のオブジェクトにダメージを与える処理
@@ -80,11 +80,12 @@ public class Bullet : MonoBehaviour
         }
     }
 
-    private Vector3 ShotBehaviorUpdate()
+    private (Vector3,Quaternion) ShotBehaviorUpdate()
     {
         Vector3 v = Vector3.zero;
         switch (guns)
         {
+            //ストレートショット
             case shotbehavior.straight:
                 v = velocity * Time.deltaTime;
                 break;
@@ -94,7 +95,10 @@ public class Bullet : MonoBehaviour
                 break;
         }
 
-        return v;
+        var vec = transform.position + v;                   //移動先の座標
+        var rot = Quaternion.LookRotation(v, Vector3.up);   //移動先に向きを合わせる
+
+        return (vec, rot);
     }
 
     //==================================================================================================

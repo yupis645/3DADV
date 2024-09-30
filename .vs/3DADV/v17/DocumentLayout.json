@@ -1,227 +1,228 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\",
+  "WorkspaceRootPath": "C:\\Users\\ohs30679\\Desktop\\3DADV\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E12CFB3B-B204-A136-FA6E-F80D40A12E6D}|Assembly-CSharp.csproj|c:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3dadv\\assets\\scripts\\camera\\cameraposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E12CFB3B-B204-A136-FA6E-F80D40A12E6D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\camera\\cameraposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E12CFB3B-B204-A136-FA6E-F80D40A12E6D}|Assembly-CSharp.csproj|C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\assets\\scripts\\camera\\maincamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E12CFB3B-B204-A136-FA6E-F80D40A12E6D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\camera\\maincamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E12CFB3B-B204-A136-FA6E-F80D40A12E6D}|Assembly-CSharp.csproj|c:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3dadv\\assets\\scripts\\test\\testunitcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E12CFB3B-B204-A136-FA6E-F80D40A12E6D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\test\\testunitcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E12CFB3B-B204-A136-FA6E-F80D40A12E6D}|Assembly-CSharp.csproj|C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\assets\\scripts\\test\\testcontroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E12CFB3B-B204-A136-FA6E-F80D40A12E6D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\test\\testcontroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E12CFB3B-B204-A136-FA6E-F80D40A12E6D}|Assembly-CSharp.csproj|C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\assets\\scripts\\baseclass\\singletonmonobehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E12CFB3B-B204-A136-FA6E-F80D40A12E6D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\baseclass\\singletonmonobehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E12CFB3B-B204-A136-FA6E-F80D40A12E6D}|Assembly-CSharp.csproj|C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\assets\\scripts\\instancemanager\\instancemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E12CFB3B-B204-A136-FA6E-F80D40A12E6D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\instancemanager\\instancemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E12CFB3B-B204-A136-FA6E-F80D40A12E6D}|Assembly-CSharp.csproj|C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\assets\\scripts\\input\\keyboardinputprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E12CFB3B-B204-A136-FA6E-F80D40A12E6D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\input\\keyboardinputprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E12CFB3B-B204-A136-FA6E-F80D40A12E6D}|Assembly-CSharp.csproj|C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\assets\\scripts\\input\\inputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E12CFB3B-B204-A136-FA6E-F80D40A12E6D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\input\\inputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E12CFB3B-B204-A136-FA6E-F80D40A12E6D}|Assembly-CSharp.csproj|C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\assets\\scripts\\input\\iinputprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E12CFB3B-B204-A136-FA6E-F80D40A12E6D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\input\\iinputprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E12CFB3B-B204-A136-FA6E-F80D40A12E6D}|Assembly-CSharp.csproj|C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\assets\\scripts\\input\\iinputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E12CFB3B-B204-A136-FA6E-F80D40A12E6D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\input\\iinputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E12CFB3B-B204-A136-FA6E-F80D40A12E6D}|Assembly-CSharp.csproj|C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\assets\\scripts\\input\\gamepadinputprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E12CFB3B-B204-A136-FA6E-F80D40A12E6D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\input\\gamepadinputprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E12CFB3B-B204-A136-FA6E-F80D40A12E6D}|Assembly-CSharp.csproj|C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\assets\\scripts\\assembledunit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E12CFB3B-B204-A136-FA6E-F80D40A12E6D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\assembledunit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E12CFB3B-B204-A136-FA6E-F80D40A12E6D}|Assembly-CSharp.csproj|C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\assets\\scenes\\test\\testpri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E12CFB3B-B204-A136-FA6E-F80D40A12E6D}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\test\\testpri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E12CFB3B-B204-A136-FA6E-F80D40A12E6D}|Assembly-CSharp.csproj|C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\assets\\scripts\\weapon\\bullet\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E12CFB3B-B204-A136-FA6E-F80D40A12E6D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weapon\\bullet\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E12CFB3B-B204-A136-FA6E-F80D40A12E6D}|Assembly-CSharp.csproj|C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\assets\\scripts\\weapon\\bullet\\explosion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E12CFB3B-B204-A136-FA6E-F80D40A12E6D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weapon\\bullet\\explosion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E12CFB3B-B204-A136-FA6E-F80D40A12E6D}|Assembly-CSharp.csproj|C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\assets\\scripts\\staticutilities\\colliderutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E12CFB3B-B204-A136-FA6E-F80D40A12E6D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\staticutilities\\colliderutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E12CFB3B-B204-A136-FA6E-F80D40A12E6D}|Assembly-CSharp.csproj|C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\assets\\scripts\\staticutilities\\mathfutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E12CFB3B-B204-A136-FA6E-F80D40A12E6D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\staticutilities\\mathfutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E12CFB3B-B204-A136-FA6E-F80D40A12E6D}|Assembly-CSharp.csproj|C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\assets\\scripts\\staticutilities\\flagsbitutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E12CFB3B-B204-A136-FA6E-F80D40A12E6D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\staticutilities\\flagsbitutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E12CFB3B-B204-A136-FA6E-F80D40A12E6D}|Assembly-CSharp.csproj|C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\assets\\scripts\\staticutilities\\timerutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E12CFB3B-B204-A136-FA6E-F80D40A12E6D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\staticutilities\\timerutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E12CFB3B-B204-A136-FA6E-F80D40A12E6D}|Assembly-CSharp.csproj|C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\assets\\scripts\\status\\characterstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E12CFB3B-B204-A136-FA6E-F80D40A12E6D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\status\\characterstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E12CFB3B-B204-A136-FA6E-F80D40A12E6D}|Assembly-CSharp.csproj|C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\assets\\scripts\\status\\weaponstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E12CFB3B-B204-A136-FA6E-F80D40A12E6D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\status\\weaponstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E12CFB3B-B204-A136-FA6E-F80D40A12E6D}|Assembly-CSharp.csproj|C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\assets\\scripts\\weapon\\rifleweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E12CFB3B-B204-A136-FA6E-F80D40A12E6D}|Assembly-CSharp.csproj|C:\\Users\\ohs30679\\Desktop\\3DADV\\assets\\scripts\\weapon\\rifleweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E12CFB3B-B204-A136-FA6E-F80D40A12E6D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weapon\\rifleweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E12CFB3B-B204-A136-FA6E-F80D40A12E6D}|Assembly-CSharp.csproj|C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\assets\\scripts\\status\\armsarmorstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E12CFB3B-B204-A136-FA6E-F80D40A12E6D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\status\\armsarmorstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E12CFB3B-B204-A136-FA6E-F80D40A12E6D}|Assembly-CSharp.csproj|C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\assets\\scripts\\gamemanager\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E12CFB3B-B204-A136-FA6E-F80D40A12E6D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3dadv\\assets\\scripts\\weapon\\explosion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\scripts\\weapon\\explosion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E12CFB3B-B204-A136-FA6E-F80D40A12E6D}|Assembly-CSharp.csproj|C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\assets\\scripts\\weapon\\weaponbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E12CFB3B-B204-A136-FA6E-F80D40A12E6D}|Assembly-CSharp.csproj|C:\\Users\\ohs30679\\Desktop\\3DADV\\assets\\scripts\\weapon\\weaponbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E12CFB3B-B204-A136-FA6E-F80D40A12E6D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weapon\\weaponbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E12CFB3B-B204-A136-FA6E-F80D40A12E6D}|Assembly-CSharp.csproj|C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\assets\\scripts\\data\\compositecomponentmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E12CFB3B-B204-A136-FA6E-F80D40A12E6D}|Assembly-CSharp.csproj|C:\\Users\\ohs30679\\Desktop\\3DADV\\assets\\scripts\\assembledunit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E12CFB3B-B204-A136-FA6E-F80D40A12E6D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\assembledunit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E12CFB3B-B204-A136-FA6E-F80D40A12E6D}|Assembly-CSharp.csproj|C:\\Users\\ohs30679\\Desktop\\3DADV\\assets\\scripts\\weapon\\bullet\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E12CFB3B-B204-A136-FA6E-F80D40A12E6D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weapon\\bullet\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E12CFB3B-B204-A136-FA6E-F80D40A12E6D}|Assembly-CSharp.csproj|C:\\Users\\ohs30679\\Desktop\\3DADV\\assets\\scripts\\weapon\\bullet\\explosion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E12CFB3B-B204-A136-FA6E-F80D40A12E6D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weapon\\bullet\\explosion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E12CFB3B-B204-A136-FA6E-F80D40A12E6D}|Assembly-CSharp.csproj|C:\\Users\\ohs30679\\Desktop\\3DADV\\assets\\scripts\\status\\characterstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E12CFB3B-B204-A136-FA6E-F80D40A12E6D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\status\\characterstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E12CFB3B-B204-A136-FA6E-F80D40A12E6D}|Assembly-CSharp.csproj|c:\\users\\ohs30679\\desktop\\3dadv\\assets\\scripts\\camera\\centerpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E12CFB3B-B204-A136-FA6E-F80D40A12E6D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\camera\\centerpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E12CFB3B-B204-A136-FA6E-F80D40A12E6D}|Assembly-CSharp.csproj|C:\\Users\\ohs30679\\Desktop\\3DADV\\assets\\scripts\\camera\\maincamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E12CFB3B-B204-A136-FA6E-F80D40A12E6D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\camera\\maincamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E12CFB3B-B204-A136-FA6E-F80D40A12E6D}|Assembly-CSharp.csproj|C:\\Users\\ohs30679\\Desktop\\3DADV\\assets\\scripts\\status\\weaponstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E12CFB3B-B204-A136-FA6E-F80D40A12E6D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\status\\weaponstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E12CFB3B-B204-A136-FA6E-F80D40A12E6D}|Assembly-CSharp.csproj|C:\\Users\\ohs30679\\Desktop\\3DADV\\assets\\scripts\\test\\testunitcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E12CFB3B-B204-A136-FA6E-F80D40A12E6D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\test\\testunitcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E12CFB3B-B204-A136-FA6E-F80D40A12E6D}|Assembly-CSharp.csproj|C:\\Users\\ohs30679\\Desktop\\3DADV\\assets\\scripts\\status\\armsarmorstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E12CFB3B-B204-A136-FA6E-F80D40A12E6D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\status\\armsarmorstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E12CFB3B-B204-A136-FA6E-F80D40A12E6D}|Assembly-CSharp.csproj|C:\\Users\\ohs30679\\Desktop\\3DADV\\assets\\scripts\\test\\testcontroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E12CFB3B-B204-A136-FA6E-F80D40A12E6D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\test\\testcontroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E12CFB3B-B204-A136-FA6E-F80D40A12E6D}|Assembly-CSharp.csproj|c:\\users\\ohs30679\\desktop\\3dadv\\assets\\scripts\\camera\\cameraposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E12CFB3B-B204-A136-FA6E-F80D40A12E6D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\camera\\cameraposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E12CFB3B-B204-A136-FA6E-F80D40A12E6D}|Assembly-CSharp.csproj|C:\\Users\\ohs30679\\Desktop\\3DADV\\assets\\scripts\\baseclass\\singletonmonobehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E12CFB3B-B204-A136-FA6E-F80D40A12E6D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\baseclass\\singletonmonobehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E12CFB3B-B204-A136-FA6E-F80D40A12E6D}|Assembly-CSharp.csproj|C:\\Users\\ohs30679\\Desktop\\3DADV\\assets\\scripts\\instancemanager\\instancemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E12CFB3B-B204-A136-FA6E-F80D40A12E6D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\instancemanager\\instancemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E12CFB3B-B204-A136-FA6E-F80D40A12E6D}|Assembly-CSharp.csproj|C:\\Users\\ohs30679\\Desktop\\3DADV\\assets\\scripts\\input\\keyboardinputprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E12CFB3B-B204-A136-FA6E-F80D40A12E6D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\input\\keyboardinputprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E12CFB3B-B204-A136-FA6E-F80D40A12E6D}|Assembly-CSharp.csproj|C:\\Users\\ohs30679\\Desktop\\3DADV\\assets\\scripts\\input\\inputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E12CFB3B-B204-A136-FA6E-F80D40A12E6D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\input\\inputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E12CFB3B-B204-A136-FA6E-F80D40A12E6D}|Assembly-CSharp.csproj|C:\\Users\\ohs30679\\Desktop\\3DADV\\assets\\scripts\\input\\iinputprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E12CFB3B-B204-A136-FA6E-F80D40A12E6D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\input\\iinputprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E12CFB3B-B204-A136-FA6E-F80D40A12E6D}|Assembly-CSharp.csproj|C:\\Users\\ohs30679\\Desktop\\3DADV\\assets\\scripts\\input\\iinputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E12CFB3B-B204-A136-FA6E-F80D40A12E6D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\input\\iinputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E12CFB3B-B204-A136-FA6E-F80D40A12E6D}|Assembly-CSharp.csproj|C:\\Users\\ohs30679\\Desktop\\3DADV\\assets\\scripts\\input\\gamepadinputprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E12CFB3B-B204-A136-FA6E-F80D40A12E6D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\input\\gamepadinputprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E12CFB3B-B204-A136-FA6E-F80D40A12E6D}|Assembly-CSharp.csproj|C:\\Users\\ohs30679\\Desktop\\3DADV\\assets\\scenes\\test\\testpri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E12CFB3B-B204-A136-FA6E-F80D40A12E6D}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\test\\testpri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E12CFB3B-B204-A136-FA6E-F80D40A12E6D}|Assembly-CSharp.csproj|C:\\Users\\ohs30679\\Desktop\\3DADV\\assets\\scripts\\staticutilities\\colliderutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E12CFB3B-B204-A136-FA6E-F80D40A12E6D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\staticutilities\\colliderutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E12CFB3B-B204-A136-FA6E-F80D40A12E6D}|Assembly-CSharp.csproj|C:\\Users\\ohs30679\\Desktop\\3DADV\\assets\\scripts\\staticutilities\\mathfutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E12CFB3B-B204-A136-FA6E-F80D40A12E6D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\staticutilities\\mathfutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E12CFB3B-B204-A136-FA6E-F80D40A12E6D}|Assembly-CSharp.csproj|C:\\Users\\ohs30679\\Desktop\\3DADV\\assets\\scripts\\staticutilities\\flagsbitutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E12CFB3B-B204-A136-FA6E-F80D40A12E6D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\staticutilities\\flagsbitutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E12CFB3B-B204-A136-FA6E-F80D40A12E6D}|Assembly-CSharp.csproj|C:\\Users\\ohs30679\\Desktop\\3DADV\\assets\\scripts\\staticutilities\\timerutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E12CFB3B-B204-A136-FA6E-F80D40A12E6D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\staticutilities\\timerutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E12CFB3B-B204-A136-FA6E-F80D40A12E6D}|Assembly-CSharp.csproj|C:\\Users\\ohs30679\\Desktop\\3DADV\\assets\\scripts\\gamemanager\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E12CFB3B-B204-A136-FA6E-F80D40A12E6D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3dadv\\assets\\scripts\\weapon\\explosion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E12CFB3B-B204-A136-FA6E-F80D40A12E6D}|Assembly-CSharp.csproj|C:\\Users\\ohs30679\\Desktop\\3DADV\\assets\\scripts\\data\\compositecomponentmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E12CFB3B-B204-A136-FA6E-F80D40A12E6D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\data\\compositecomponentmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E12CFB3B-B204-A136-FA6E-F80D40A12E6D}|Assembly-CSharp.csproj|C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\assets\\scripts\\data\\dicontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E12CFB3B-B204-A136-FA6E-F80D40A12E6D}|Assembly-CSharp.csproj|C:\\Users\\ohs30679\\Desktop\\3DADV\\assets\\scripts\\data\\dicontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E12CFB3B-B204-A136-FA6E-F80D40A12E6D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\data\\dicontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E12CFB3B-B204-A136-FA6E-F80D40A12E6D}|Assembly-CSharp.csproj|C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\assets\\scripts\\data\\masterdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E12CFB3B-B204-A136-FA6E-F80D40A12E6D}|Assembly-CSharp.csproj|C:\\Users\\ohs30679\\Desktop\\3DADV\\assets\\scripts\\data\\masterdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E12CFB3B-B204-A136-FA6E-F80D40A12E6D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\data\\masterdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E12CFB3B-B204-A136-FA6E-F80D40A12E6D}|Assembly-CSharp.csproj|C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\assets\\scripts\\baseclass\\weapon\\armsweaponparts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E12CFB3B-B204-A136-FA6E-F80D40A12E6D}|Assembly-CSharp.csproj|C:\\Users\\ohs30679\\Desktop\\3DADV\\assets\\scripts\\baseclass\\weapon\\armsweaponparts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E12CFB3B-B204-A136-FA6E-F80D40A12E6D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\baseclass\\weapon\\armsweaponparts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E12CFB3B-B204-A136-FA6E-F80D40A12E6D}|Assembly-CSharp.csproj|C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\assets\\scripts\\baseclass\\characterbaseprameter\\basecharacterparameter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E12CFB3B-B204-A136-FA6E-F80D40A12E6D}|Assembly-CSharp.csproj|C:\\Users\\ohs30679\\Desktop\\3DADV\\assets\\scripts\\baseclass\\characterbaseprameter\\basecharacterparameter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E12CFB3B-B204-A136-FA6E-F80D40A12E6D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\baseclass\\characterbaseprameter\\basecharacterparameter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E12CFB3B-B204-A136-FA6E-F80D40A12E6D}|Assembly-CSharp.csproj|C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\assets\\scripts\\myrigidbody\\myrigidbody.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E12CFB3B-B204-A136-FA6E-F80D40A12E6D}|Assembly-CSharp.csproj|C:\\Users\\ohs30679\\Desktop\\3DADV\\assets\\scripts\\myrigidbody\\myrigidbody.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E12CFB3B-B204-A136-FA6E-F80D40A12E6D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\myrigidbody\\myrigidbody.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E12CFB3B-B204-A136-FA6E-F80D40A12E6D}|Assembly-CSharp.csproj|C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E12CFB3B-B204-A136-FA6E-F80D40A12E6D}|Assembly-CSharp.csproj|C:\\Users\\ohs30679\\Desktop\\3DADV\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E12CFB3B-B204-A136-FA6E-F80D40A12E6D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E12CFB3B-B204-A136-FA6E-F80D40A12E6D}|Assembly-CSharp.csproj|C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\assets\\scripts\\baseclass\\protectedsingletonmonobehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E12CFB3B-B204-A136-FA6E-F80D40A12E6D}|Assembly-CSharp.csproj|C:\\Users\\ohs30679\\Desktop\\3DADV\\assets\\scripts\\baseclass\\protectedsingletonmonobehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E12CFB3B-B204-A136-FA6E-F80D40A12E6D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\baseclass\\protectedsingletonmonobehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E12CFB3B-B204-A136-FA6E-F80D40A12E6D}|Assembly-CSharp.csproj|C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\assets\\scripts\\baseclass\\charactercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E12CFB3B-B204-A136-FA6E-F80D40A12E6D}|Assembly-CSharp.csproj|C:\\Users\\ohs30679\\Desktop\\3DADV\\assets\\scripts\\baseclass\\charactercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E12CFB3B-B204-A136-FA6E-F80D40A12E6D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\baseclass\\charactercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E12CFB3B-B204-A136-FA6E-F80D40A12E6D}|Assembly-CSharp.csproj|C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\assets\\scripts\\status\\legsarmorstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E12CFB3B-B204-A136-FA6E-F80D40A12E6D}|Assembly-CSharp.csproj|C:\\Users\\ohs30679\\Desktop\\3DADV\\assets\\scripts\\status\\legsarmorstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E12CFB3B-B204-A136-FA6E-F80D40A12E6D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\status\\legsarmorstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E12CFB3B-B204-A136-FA6E-F80D40A12E6D}|Assembly-CSharp.csproj|C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\assets\\scripts\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E12CFB3B-B204-A136-FA6E-F80D40A12E6D}|Assembly-CSharp.csproj|C:\\Users\\ohs30679\\Desktop\\3DADV\\assets\\scripts\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E12CFB3B-B204-A136-FA6E-F80D40A12E6D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E12CFB3B-B204-A136-FA6E-F80D40A12E6D}|Assembly-CSharp.csproj|C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\assets\\scripts\\baseclass\\protectedsingletonbaseclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E12CFB3B-B204-A136-FA6E-F80D40A12E6D}|Assembly-CSharp.csproj|C:\\Users\\ohs30679\\Desktop\\3DADV\\assets\\scripts\\baseclass\\protectedsingletonbaseclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E12CFB3B-B204-A136-FA6E-F80D40A12E6D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\baseclass\\protectedsingletonbaseclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ohs30679\\Desktop\\3DADV\\Assets\\Scripts\\BaseClass\\ArmsWeaponParts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ohs30679\\Desktop\\3DADV\\Assets\\Scripts\\BaseClass\\ArmsWeaponParts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\BaseClass\\ArmsWeaponParts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E12CFB3B-B204-A136-FA6E-F80D40A12E6D}|Assembly-CSharp.csproj|C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\assets\\scripts\\baseclass\\basescenemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E12CFB3B-B204-A136-FA6E-F80D40A12E6D}|Assembly-CSharp.csproj|C:\\Users\\ohs30679\\Desktop\\3DADV\\assets\\scripts\\baseclass\\basescenemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E12CFB3B-B204-A136-FA6E-F80D40A12E6D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\baseclass\\basescenemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\Assets\\Scripts\\CharacterStatus\\MovingStatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\CharacterStatus\\MovingStatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\Assets\\Scripts\\CharacterStatus\\MovingStatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ohs30679\\Desktop\\3D\u8131\u51FA\u30B2\u30FC\u30E0\\Assets\\Scripts\\Game\\GameSceneManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\Library\\PackageCache\\com.unity.ai.navigation@1.1.5\\Editor\\NavMeshAssetManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ohs30679\\Desktop\\3DADV\\Library\\PackageCache\\com.unity.ai.navigation@1.1.5\\Editor\\NavMeshAssetManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.ai.navigation@1.1.5\\Editor\\NavMeshAssetManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E12CFB3B-B204-A136-FA6E-F80D40A12E6D}|Assembly-CSharp.csproj|C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\assets\\scripts\\gamemanager\\igamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E12CFB3B-B204-A136-FA6E-F80D40A12E6D}|Assembly-CSharp.csproj|C:\\Users\\ohs30679\\Desktop\\3DADV\\assets\\scripts\\gamemanager\\igamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E12CFB3B-B204-A136-FA6E-F80D40A12E6D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager\\igamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\ohs30679\\desktop\\3dadv\\3dadv\\assets\\script\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\ohs30679\\desktop\\3dadv\\3dadv\\assets\\script\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:3dadv\\assets\\script\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E12CFB3B-B204-A136-FA6E-F80D40A12E6D}|Assembly-CSharp.csproj|C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\assets\\scripts\\data\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E12CFB3B-B204-A136-FA6E-F80D40A12E6D}|Assembly-CSharp.csproj|C:\\Users\\ohs30679\\Desktop\\3DADV\\assets\\scripts\\data\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E12CFB3B-B204-A136-FA6E-F80D40A12E6D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\data\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\Assets\\Scripts\\CharacterStatus\\MoveParameter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\CharacterStatus\\MoveParameter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\Assets\\Scripts\\CharacterStatus\\MoveParameter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ohs30679\\Desktop\\3DADV\\Assets\\Scripts\\CharacterStatus\\CharacterStatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ohs30679\\Desktop\\3DADV\\Assets\\Scripts\\CharacterStatus\\CharacterStatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\CharacterStatus\\CharacterStatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ohs30679\\Desktop\\3DADV\\Assets\\Scripts\\CharacterStatus\\WeaponStatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ohs30679\\Desktop\\3DADV\\Assets\\Scripts\\CharacterStatus\\WeaponStatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\CharacterStatus\\WeaponStatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\Assets\\Scripts\\TestControll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\TestControll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\Assets\\Scripts\\TestControll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\assets\\scripts\\staticutilities\\bitwiseutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\scripts\\staticutilities\\bitwiseutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\assets\\scripts\\staticutilities\\bitwiseutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\assets\\scripts\\weapon\\bullet\\bulletinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\scripts\\weapon\\bullet\\bulletinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\assets\\scripts\\weapon\\bullet\\bulletinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\assets\\scripts\\weapon\\bullet\\ibulletiinputprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\scripts\\weapon\\bullet\\ibulletiinputprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\assets\\scripts\\weapon\\bullet\\ibulletiinputprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\assets\\scripts\\staticutilities\\explosionutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\scripts\\staticutilities\\explosionutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\assets\\scripts\\staticutilities\\explosionutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\ohs30679\\desktop\\3dadv\\assets\\scripts\\staticutilities\\colliderfutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\ohs30679\\desktop\\3dadv\\assets\\scripts\\staticutilities\\colliderfutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\scripts\\staticutilities\\colliderfutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ohs30679\\Desktop\\3DADV\\Assets\\Scripts\\StaticUtilities\\ColliderUtillity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ohs30679\\Desktop\\3DADV\\Assets\\Scripts\\StaticUtilities\\ColliderUtillity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\StaticUtilities\\ColliderUtillity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\3DADV\\Assets\\Scripts\\Test\\EnemyControll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:3DADV\\Assets\\Scripts\\Test\\EnemyControll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\3DADV\\Assets\\Scripts\\Test\\EnemyControll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -231,101 +232,132 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CameraPosition.cs",
-              "DocumentMoniker": "C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\Assets\\Scripts\\Camera\\CameraPosition.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Camera\\CameraPosition.cs",
-              "ToolTip": "C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\Assets\\Scripts\\Camera\\CameraPosition.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Camera\\CameraPosition.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvxYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T16:25:26.367Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "InputManager.cs",
-              "DocumentMoniker": "C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\Assets\\Scripts\\Input\\InputManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Input\\InputManager.cs",
-              "ToolTip": "C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\Assets\\Scripts\\Input\\InputManager.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Input\\InputManager.cs",
-              "ViewState": "AQIAAG8AAAAAAAAAAAAowI4AAABLAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T10:06:40.248Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "IInputProvider.cs",
-              "DocumentMoniker": "C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\Assets\\Scripts\\Input\\IInputProvider.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Input\\IInputProvider.cs",
-              "ToolTip": "C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\Assets\\Scripts\\Input\\IInputProvider.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Input\\IInputProvider.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T09:35:09.255Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "InstanceManager.cs",
-              "DocumentMoniker": "C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\Assets\\Scripts\\InstanceManager\\InstanceManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\InstanceManager\\InstanceManager.cs",
-              "ToolTip": "C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\Assets\\Scripts\\InstanceManager\\InstanceManager.cs",
-              "RelativeToolTip": "Assets\\Scripts\\InstanceManager\\InstanceManager.cs",
-              "ViewState": "AQIAADMAAAAAAAAAAAAIwEkAAABEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T10:25:25.405Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "KeyboardInputProvider.cs",
-              "DocumentMoniker": "C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\Assets\\Scripts\\Input\\KeyboardInputProvider.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Input\\KeyboardInputProvider.cs",
-              "ToolTip": "C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\Assets\\Scripts\\Input\\KeyboardInputProvider.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Input\\KeyboardInputProvider.cs",
-              "ViewState": "AQIAACAAAAAAAAAAAAAQwEgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T10:48:23.263Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "TestUnitController.cs",
-              "DocumentMoniker": "C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\Assets\\Scripts\\Test\\TestUnitController.cs",
+              "DocumentMoniker": "C:\\Users\\ohs30679\\Desktop\\3DADV\\Assets\\Scripts\\Test\\TestUnitController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Test\\TestUnitController.cs",
-              "ToolTip": "C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\Assets\\Scripts\\Test\\TestUnitController.cs",
+              "ToolTip": "C:\\Users\\ohs30679\\Desktop\\3DADV\\Assets\\Scripts\\Test\\TestUnitController.cs",
               "RelativeToolTip": "Assets\\Scripts\\Test\\TestUnitController.cs",
-              "ViewState": "AQIAAOwAAAAAAAAAAAAlwA0BAAAsAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-24T11:29:41.02Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "SingletonMonoBehaviour.cs",
-              "DocumentMoniker": "C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\Assets\\Scripts\\BaseClass\\SingletonMonoBehaviour.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\BaseClass\\SingletonMonoBehaviour.cs",
-              "ToolTip": "C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\Assets\\Scripts\\BaseClass\\SingletonMonoBehaviour.cs",
-              "RelativeToolTip": "Assets\\Scripts\\BaseClass\\SingletonMonoBehaviour.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAABaAAAA",
+              "DocumentIndex": 2,
+              "Title": "AssembledUnit.cs",
+              "DocumentMoniker": "C:\\Users\\ohs30679\\Desktop\\3DADV\\Assets\\Scripts\\AssembledUnit.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AssembledUnit.cs",
+              "ToolTip": "C:\\Users\\ohs30679\\Desktop\\3DADV\\Assets\\Scripts\\AssembledUnit.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AssembledUnit.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T10:39:49.015Z"
+              "WhenOpened": "2024-07-20T08:28:50.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TestControll.cs",
+              "DocumentMoniker": "C:\\Users\\ohs30679\\Desktop\\3DADV\\Assets\\Scripts\\Test\\TestControll.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Test\\TestControll.cs",
+              "ToolTip": "C:\\Users\\ohs30679\\Desktop\\3DADV\\Assets\\Scripts\\Test\\TestControll.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Test\\TestControll.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAIwDAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T11:29:38.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ArmsArmorStatus.cs",
+              "DocumentMoniker": "C:\\Users\\ohs30679\\Desktop\\3DADV\\Assets\\Scripts\\Status\\ArmsArmorStatus.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Status\\ArmsArmorStatus.cs",
+              "ToolTip": "C:\\Users\\ohs30679\\Desktop\\3DADV\\Assets\\Scripts\\Status\\ArmsArmorStatus.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Status\\ArmsArmorStatus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T10:47:14.938Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "WeaponBase.cs",
+              "DocumentMoniker": "C:\\Users\\ohs30679\\Desktop\\3DADV\\Assets\\Scripts\\Weapon\\WeaponBase.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Weapon\\WeaponBase.cs",
+              "ToolTip": "C:\\Users\\ohs30679\\Desktop\\3DADV\\Assets\\Scripts\\Weapon\\WeaponBase.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Weapon\\WeaponBase.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAIwDIAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T07:46:12.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Bullet.cs",
+              "DocumentMoniker": "C:\\Users\\ohs30679\\Desktop\\3DADV\\Assets\\Scripts\\Weapon\\Bullet\\Bullet.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Weapon\\Bullet\\Bullet.cs",
+              "ToolTip": "C:\\Users\\ohs30679\\Desktop\\3DADV\\Assets\\Scripts\\Weapon\\Bullet\\Bullet.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Weapon\\Bullet\\Bullet.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T03:44:55.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RifleWeapon.cs",
+              "DocumentMoniker": "C:\\Users\\ohs30679\\Desktop\\3DADV\\Assets\\Scripts\\Weapon\\RifleWeapon.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Weapon\\RifleWeapon.cs",
+              "ToolTip": "C:\\Users\\ohs30679\\Desktop\\3DADV\\Assets\\Scripts\\Weapon\\RifleWeapon.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Weapon\\RifleWeapon.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T09:25:07.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WeaponStatus.cs",
+              "DocumentMoniker": "C:\\Users\\ohs30679\\Desktop\\3DADV\\Assets\\Scripts\\Status\\WeaponStatus.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Status\\WeaponStatus.cs",
+              "ToolTip": "C:\\Users\\ohs30679\\Desktop\\3DADV\\Assets\\Scripts\\Status\\WeaponStatus.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Status\\WeaponStatus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T09:31:00.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Explosion.cs",
+              "DocumentMoniker": "C:\\Users\\ohs30679\\Desktop\\3DADV\\Assets\\Scripts\\Weapon\\Bullet\\Explosion.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Weapon\\Bullet\\Explosion.cs",
+              "ToolTip": "C:\\Users\\ohs30679\\Desktop\\3DADV\\Assets\\Scripts\\Weapon\\Bullet\\Explosion.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Weapon\\Bullet\\Explosion.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAADwv3EAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T03:39:12.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "MainCamera.cs",
-              "DocumentMoniker": "C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\Assets\\Scripts\\Camera\\MainCamera.cs",
+              "DocumentMoniker": "C:\\Users\\ohs30679\\Desktop\\3DADV\\Assets\\Scripts\\Camera\\MainCamera.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Camera\\MainCamera.cs",
-              "ToolTip": "C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\Assets\\Scripts\\Camera\\MainCamera.cs",
+              "ToolTip": "C:\\Users\\ohs30679\\Desktop\\3DADV\\Assets\\Scripts\\Camera\\MainCamera.cs",
               "RelativeToolTip": "Assets\\Scripts\\Camera\\MainCamera.cs",
               "ViewState": "AQIAADUAAAAAAAAAAAAQwGcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -334,11 +366,110 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 5,
+              "Title": "CharacterStatus.cs",
+              "DocumentMoniker": "C:\\Users\\ohs30679\\Desktop\\3DADV\\Assets\\Scripts\\Status\\CharacterStatus.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Status\\CharacterStatus.cs",
+              "ToolTip": "C:\\Users\\ohs30679\\Desktop\\3DADV\\Assets\\Scripts\\Status\\CharacterStatus.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Status\\CharacterStatus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T10:44:26.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CenterPoint.cs",
+              "DocumentMoniker": "C:\\Users\\ohs30679\\Desktop\\3DADV\\Assets\\Scripts\\Camera\\CenterPoint.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Camera\\CenterPoint.cs",
+              "ToolTip": "C:\\Users\\ohs30679\\Desktop\\3DADV\\Assets\\Scripts\\Camera\\CenterPoint.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Camera\\CenterPoint.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T10:11:56.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CameraPosition.cs",
+              "DocumentMoniker": "C:\\Users\\ohs30679\\Desktop\\3DADV\\Assets\\Scripts\\Camera\\CameraPosition.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Camera\\CameraPosition.cs",
+              "ToolTip": "C:\\Users\\ohs30679\\Desktop\\3DADV\\Assets\\Scripts\\Camera\\CameraPosition.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Camera\\CameraPosition.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvxcAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T16:25:26.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SingletonMonoBehaviour.cs",
+              "DocumentMoniker": "C:\\Users\\ohs30679\\Desktop\\3DADV\\Assets\\Scripts\\BaseClass\\SingletonMonoBehaviour.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BaseClass\\SingletonMonoBehaviour.cs",
+              "ToolTip": "C:\\Users\\ohs30679\\Desktop\\3DADV\\Assets\\Scripts\\BaseClass\\SingletonMonoBehaviour.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BaseClass\\SingletonMonoBehaviour.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T10:39:49.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "KeyboardInputProvider.cs",
+              "DocumentMoniker": "C:\\Users\\ohs30679\\Desktop\\3DADV\\Assets\\Scripts\\Input\\KeyboardInputProvider.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Input\\KeyboardInputProvider.cs",
+              "ToolTip": "C:\\Users\\ohs30679\\Desktop\\3DADV\\Assets\\Scripts\\Input\\KeyboardInputProvider.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Input\\KeyboardInputProvider.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAQwEgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T10:48:23.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "InstanceManager.cs",
+              "DocumentMoniker": "C:\\Users\\ohs30679\\Desktop\\3DADV\\Assets\\Scripts\\InstanceManager\\InstanceManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\InstanceManager\\InstanceManager.cs",
+              "ToolTip": "C:\\Users\\ohs30679\\Desktop\\3DADV\\Assets\\Scripts\\InstanceManager\\InstanceManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\InstanceManager\\InstanceManager.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAIwEkAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T10:25:25.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IInputProvider.cs",
+              "DocumentMoniker": "C:\\Users\\ohs30679\\Desktop\\3DADV\\Assets\\Scripts\\Input\\IInputProvider.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Input\\IInputProvider.cs",
+              "ToolTip": "C:\\Users\\ohs30679\\Desktop\\3DADV\\Assets\\Scripts\\Input\\IInputProvider.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Input\\IInputProvider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T09:35:09.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "InputManager.cs",
+              "DocumentMoniker": "C:\\Users\\ohs30679\\Desktop\\3DADV\\Assets\\Scripts\\Input\\InputManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Input\\InputManager.cs",
+              "ToolTip": "C:\\Users\\ohs30679\\Desktop\\3DADV\\Assets\\Scripts\\Input\\InputManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Input\\InputManager.cs",
+              "ViewState": "AQIAAG8AAAAAAAAAAAAowI4AAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T10:06:40.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "IInputManager.cs",
-              "DocumentMoniker": "C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\Assets\\Scripts\\Input\\IInputManager.cs",
+              "DocumentMoniker": "C:\\Users\\ohs30679\\Desktop\\3DADV\\Assets\\Scripts\\Input\\IInputManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Input\\IInputManager.cs",
-              "ToolTip": "C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\Assets\\Scripts\\Input\\IInputManager.cs",
+              "ToolTip": "C:\\Users\\ohs30679\\Desktop\\3DADV\\Assets\\Scripts\\Input\\IInputManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\Input\\IInputManager.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -346,23 +477,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "TestControll.cs",
-              "DocumentMoniker": "C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\Assets\\Scripts\\Test\\TestControll.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Test\\TestControll.cs",
-              "ToolTip": "C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\Assets\\Scripts\\Test\\TestControll.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Test\\TestControll.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAUwDAAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-24T11:29:38.997Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 19,
               "Title": "GamePadInputProvider.cs",
-              "DocumentMoniker": "C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\Assets\\Scripts\\Input\\GamePadInputProvider.cs",
+              "DocumentMoniker": "C:\\Users\\ohs30679\\Desktop\\3DADV\\Assets\\Scripts\\Input\\GamePadInputProvider.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Input\\GamePadInputProvider.cs",
-              "ToolTip": "C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\Assets\\Scripts\\Input\\GamePadInputProvider.cs",
+              "ToolTip": "C:\\Users\\ohs30679\\Desktop\\3DADV\\Assets\\Scripts\\Input\\GamePadInputProvider.cs",
               "RelativeToolTip": "Assets\\Scripts\\Input\\GamePadInputProvider.cs",
               "ViewState": "AQIAAIMAAAAAAAAAAAAiwKcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -370,11 +489,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 20,
               "Title": "TestPri.cs",
-              "DocumentMoniker": "C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\Assets\\Scenes\\Test\\TestPri.cs",
+              "DocumentMoniker": "C:\\Users\\ohs30679\\Desktop\\3DADV\\Assets\\Scenes\\Test\\TestPri.cs",
               "RelativeDocumentMoniker": "Assets\\Scenes\\Test\\TestPri.cs",
-              "ToolTip": "C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\Assets\\Scenes\\Test\\TestPri.cs",
+              "ToolTip": "C:\\Users\\ohs30679\\Desktop\\3DADV\\Assets\\Scenes\\Test\\TestPri.cs",
               "RelativeToolTip": "Assets\\Scenes\\Test\\TestPri.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -382,119 +501,47 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Bullet.cs",
-              "DocumentMoniker": "C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\Assets\\Scripts\\Weapon\\Bullet\\Bullet.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Weapon\\Bullet\\Bullet.cs",
-              "ToolTip": "C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\Assets\\Scripts\\Weapon\\Bullet\\Bullet.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Weapon\\Bullet\\Bullet.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-25T03:44:55.565Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Explosion.cs",
-              "DocumentMoniker": "C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\Assets\\Scripts\\Weapon\\Bullet\\Explosion.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Weapon\\Bullet\\Explosion.cs",
-              "ToolTip": "C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\Assets\\Scripts\\Weapon\\Bullet\\Explosion.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Weapon\\Bullet\\Explosion.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAADwv3EAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-25T03:39:12.406Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "AssembledUnit.cs",
-              "DocumentMoniker": "C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\Assets\\Scripts\\AssembledUnit.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\AssembledUnit.cs",
-              "ToolTip": "C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\Assets\\Scripts\\AssembledUnit.cs",
-              "RelativeToolTip": "Assets\\Scripts\\AssembledUnit.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-20T08:28:50.534Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "ArmsArmorStatus.cs",
-              "DocumentMoniker": "C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\Assets\\Scripts\\Status\\ArmsArmorStatus.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Status\\ArmsArmorStatus.cs",
-              "ToolTip": "C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\Assets\\Scripts\\Status\\ArmsArmorStatus.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Status\\ArmsArmorStatus.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-20T10:47:14.938Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 57,
               "Title": "EnemyControll.cs",
               "DocumentMoniker": "C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\3DADV\\Assets\\Scripts\\Test\\EnemyControll.cs",
-              "RelativeDocumentMoniker": "3DADV\\Assets\\Scripts\\Test\\EnemyControll.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\3DADV\\Assets\\Scripts\\Test\\EnemyControll.cs",
               "ToolTip": "C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\3DADV\\Assets\\Scripts\\Test\\EnemyControll.cs",
-              "RelativeToolTip": "3DADV\\Assets\\Scripts\\Test\\EnemyControll.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\3DADV\\Assets\\Scripts\\Test\\EnemyControll.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAADwvwcAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-06T11:52:35.491Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "CharacterStatus.cs",
-              "DocumentMoniker": "C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\Assets\\Scripts\\Status\\CharacterStatus.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Status\\CharacterStatus.cs",
-              "ToolTip": "C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\Assets\\Scripts\\Status\\CharacterStatus.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Status\\CharacterStatus.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADkAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-20T10:44:26.835Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "WeaponStatus.cs",
-              "DocumentMoniker": "C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\Assets\\Scripts\\Status\\WeaponStatus.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Status\\WeaponStatus.cs",
-              "ToolTip": "C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\Assets\\Scripts\\Status\\WeaponStatus.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Status\\WeaponStatus.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T09:31:00.327Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 56,
               "Title": "ColliderUtillity.cs",
               "DocumentMoniker": "C:\\Users\\ohs30679\\Desktop\\3DADV\\Assets\\Scripts\\StaticUtilities\\ColliderUtillity.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\Users\\ohs30679\\Desktop\\3DADV\\Assets\\Scripts\\StaticUtilities\\ColliderUtillity.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\StaticUtilities\\ColliderUtillity.cs",
               "ToolTip": "C:\\Users\\ohs30679\\Desktop\\3DADV\\Assets\\Scripts\\StaticUtilities\\ColliderUtillity.cs",
-              "RelativeToolTip": "..\\..\\..\\Users\\ohs30679\\Desktop\\3DADV\\Assets\\Scripts\\StaticUtilities\\ColliderUtillity.cs",
+              "RelativeToolTip": "Assets\\Scripts\\StaticUtilities\\ColliderUtillity.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-02T11:43:07.291Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 55,
               "Title": "ColliderfUtility.cs",
               "DocumentMoniker": "C:\\Users\\ohs30679\\Desktop\\3DADV\\Assets\\Scripts\\StaticUtilities\\ColliderfUtility.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\Users\\ohs30679\\Desktop\\3DADV\\Assets\\Scripts\\StaticUtilities\\ColliderfUtility.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\StaticUtilities\\ColliderfUtility.cs",
               "ToolTip": "C:\\Users\\ohs30679\\Desktop\\3DADV\\Assets\\Scripts\\StaticUtilities\\ColliderfUtility.cs",
-              "RelativeToolTip": "..\\..\\..\\Users\\ohs30679\\Desktop\\3DADV\\Assets\\Scripts\\StaticUtilities\\ColliderfUtility.cs",
+              "RelativeToolTip": "Assets\\Scripts\\StaticUtilities\\ColliderfUtility.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-02T11:44:28.112Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 21,
               "Title": "ColliderUtility.cs",
-              "DocumentMoniker": "C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\Assets\\Scripts\\StaticUtilities\\ColliderUtility.cs",
+              "DocumentMoniker": "C:\\Users\\ohs30679\\Desktop\\3DADV\\Assets\\Scripts\\StaticUtilities\\ColliderUtility.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\StaticUtilities\\ColliderUtility.cs",
-              "ToolTip": "C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\Assets\\Scripts\\StaticUtilities\\ColliderUtility.cs",
+              "ToolTip": "C:\\Users\\ohs30679\\Desktop\\3DADV\\Assets\\Scripts\\StaticUtilities\\ColliderUtility.cs",
               "RelativeToolTip": "Assets\\Scripts\\StaticUtilities\\ColliderUtility.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -502,11 +549,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 23,
               "Title": "FlagsBitUtility.cs",
-              "DocumentMoniker": "C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\Assets\\Scripts\\StaticUtilities\\FlagsBitUtility.cs",
+              "DocumentMoniker": "C:\\Users\\ohs30679\\Desktop\\3DADV\\Assets\\Scripts\\StaticUtilities\\FlagsBitUtility.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\StaticUtilities\\FlagsBitUtility.cs",
-              "ToolTip": "C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\Assets\\Scripts\\StaticUtilities\\FlagsBitUtility.cs",
+              "ToolTip": "C:\\Users\\ohs30679\\Desktop\\3DADV\\Assets\\Scripts\\StaticUtilities\\FlagsBitUtility.cs",
               "RelativeToolTip": "Assets\\Scripts\\StaticUtilities\\FlagsBitUtility.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -514,11 +561,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 22,
               "Title": "MathfUtility.cs",
-              "DocumentMoniker": "C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\Assets\\Scripts\\StaticUtilities\\MathfUtility.cs",
+              "DocumentMoniker": "C:\\Users\\ohs30679\\Desktop\\3DADV\\Assets\\Scripts\\StaticUtilities\\MathfUtility.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\StaticUtilities\\MathfUtility.cs",
-              "ToolTip": "C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\Assets\\Scripts\\StaticUtilities\\MathfUtility.cs",
+              "ToolTip": "C:\\Users\\ohs30679\\Desktop\\3DADV\\Assets\\Scripts\\StaticUtilities\\MathfUtility.cs",
               "RelativeToolTip": "Assets\\Scripts\\StaticUtilities\\MathfUtility.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -526,35 +573,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "RifleWeapon.cs",
-              "DocumentMoniker": "C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\Assets\\Scripts\\Weapon\\RifleWeapon.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Weapon\\RifleWeapon.cs",
-              "ToolTip": "C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\Assets\\Scripts\\Weapon\\RifleWeapon.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Weapon\\RifleWeapon.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T09:25:07.566Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 24,
               "Title": "TimerUtility.cs",
-              "DocumentMoniker": "C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\Assets\\Scripts\\StaticUtilities\\TimerUtility.cs",
+              "DocumentMoniker": "C:\\Users\\ohs30679\\Desktop\\3DADV\\Assets\\Scripts\\StaticUtilities\\TimerUtility.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\StaticUtilities\\TimerUtility.cs",
-              "ToolTip": "C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\Assets\\Scripts\\StaticUtilities\\TimerUtility.cs",
+              "ToolTip": "C:\\Users\\ohs30679\\Desktop\\3DADV\\Assets\\Scripts\\StaticUtilities\\TimerUtility.cs",
               "RelativeToolTip": "Assets\\Scripts\\StaticUtilities\\TimerUtility.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-12T06:18:12.953Z"
+              "WhenOpened": "2024-08-12T06:18:12.953Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 25,
               "Title": "GameManager.cs",
-              "DocumentMoniker": "C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\Assets\\Scripts\\GameManager\\GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\ohs30679\\Desktop\\3DADV\\Assets\\Scripts\\GameManager\\GameManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager\\GameManager.cs",
-              "ToolTip": "C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\Assets\\Scripts\\GameManager\\GameManager.cs",
+              "ToolTip": "C:\\Users\\ohs30679\\Desktop\\3DADV\\Assets\\Scripts\\GameManager\\GameManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\GameManager\\GameManager.cs",
               "ViewState": "AQIAABcAAAAAAAAAAADwvy8AAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -562,59 +598,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 52,
               "Title": "BulletInterface.cs",
               "DocumentMoniker": "C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\Assets\\Scripts\\Weapon\\Bullet\\BulletInterface.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Weapon\\Bullet\\BulletInterface.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\Assets\\Scripts\\Weapon\\Bullet\\BulletInterface.cs",
               "ToolTip": "C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\Assets\\Scripts\\Weapon\\Bullet\\BulletInterface.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Weapon\\Bullet\\BulletInterface.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\Assets\\Scripts\\Weapon\\Bullet\\BulletInterface.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-23T10:34:26.399Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 54,
               "Title": "ExplosionUtility.cs",
               "DocumentMoniker": "C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\Assets\\Scripts\\StaticUtilities\\ExplosionUtility.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\StaticUtilities\\ExplosionUtility.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\Assets\\Scripts\\StaticUtilities\\ExplosionUtility.cs",
               "ToolTip": "C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\Assets\\Scripts\\StaticUtilities\\ExplosionUtility.cs",
-              "RelativeToolTip": "Assets\\Scripts\\StaticUtilities\\ExplosionUtility.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\Assets\\Scripts\\StaticUtilities\\ExplosionUtility.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-23T11:00:02.302Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 26,
               "Title": "Explosion.cs",
               "DocumentMoniker": "C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\Assets\\Scripts\\Weapon\\Explosion.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Weapon\\Explosion.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\Assets\\Scripts\\Weapon\\Explosion.cs",
               "ToolTip": "C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\Assets\\Scripts\\Weapon\\Explosion.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Weapon\\Explosion.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\Assets\\Scripts\\Weapon\\Explosion.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAADkAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-23T11:11:21.27Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 53,
               "Title": "IBulletIInputProvider.cs",
               "DocumentMoniker": "C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\Assets\\Scripts\\Weapon\\Bullet\\IBulletIInputProvider.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Weapon\\Bullet\\IBulletIInputProvider.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\Assets\\Scripts\\Weapon\\Bullet\\IBulletIInputProvider.cs",
               "ToolTip": "C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\Assets\\Scripts\\Weapon\\Bullet\\IBulletIInputProvider.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Weapon\\Bullet\\IBulletIInputProvider.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\Assets\\Scripts\\Weapon\\Bullet\\IBulletIInputProvider.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-23T10:39:11.252Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 30,
               "Title": "ArmsWeaponParts.cs",
-              "DocumentMoniker": "C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\Assets\\Scripts\\BaseClass\\Weapon\\ArmsWeaponParts.cs",
+              "DocumentMoniker": "C:\\Users\\ohs30679\\Desktop\\3DADV\\Assets\\Scripts\\BaseClass\\Weapon\\ArmsWeaponParts.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\BaseClass\\Weapon\\ArmsWeaponParts.cs",
-              "ToolTip": "C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\Assets\\Scripts\\BaseClass\\Weapon\\ArmsWeaponParts.cs",
+              "ToolTip": "C:\\Users\\ohs30679\\Desktop\\3DADV\\Assets\\Scripts\\BaseClass\\Weapon\\ArmsWeaponParts.cs",
               "RelativeToolTip": "Assets\\Scripts\\BaseClass\\Weapon\\ArmsWeaponParts.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -622,23 +658,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "WeaponBase.cs",
-              "DocumentMoniker": "C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\Assets\\Scripts\\Weapon\\WeaponBase.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Weapon\\WeaponBase.cs",
-              "ToolTip": "C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\Assets\\Scripts\\Weapon\\WeaponBase.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Weapon\\WeaponBase.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-11T07:46:12.648Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "CompositeComponentModule.cs",
-              "DocumentMoniker": "C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\Assets\\Scripts\\Data\\CompositeComponentModule.cs",
+              "DocumentMoniker": "C:\\Users\\ohs30679\\Desktop\\3DADV\\Assets\\Scripts\\Data\\CompositeComponentModule.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Data\\CompositeComponentModule.cs",
-              "ToolTip": "C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\Assets\\Scripts\\Data\\CompositeComponentModule.cs",
+              "ToolTip": "C:\\Users\\ohs30679\\Desktop\\3DADV\\Assets\\Scripts\\Data\\CompositeComponentModule.cs",
               "RelativeToolTip": "Assets\\Scripts\\Data\\CompositeComponentModule.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -646,11 +670,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "DIContainer.cs",
-              "DocumentMoniker": "C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\Assets\\Scripts\\Data\\DIContainer.cs",
+              "DocumentMoniker": "C:\\Users\\ohs30679\\Desktop\\3DADV\\Assets\\Scripts\\Data\\DIContainer.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Data\\DIContainer.cs",
-              "ToolTip": "C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\Assets\\Scripts\\Data\\DIContainer.cs",
+              "ToolTip": "C:\\Users\\ohs30679\\Desktop\\3DADV\\Assets\\Scripts\\Data\\DIContainer.cs",
               "RelativeToolTip": "Assets\\Scripts\\Data\\DIContainer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -658,11 +682,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "MasterData.cs",
-              "DocumentMoniker": "C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\Assets\\Scripts\\Data\\MasterData.cs",
+              "DocumentMoniker": "C:\\Users\\ohs30679\\Desktop\\3DADV\\Assets\\Scripts\\Data\\MasterData.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Data\\MasterData.cs",
-              "ToolTip": "C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\Assets\\Scripts\\Data\\MasterData.cs",
+              "ToolTip": "C:\\Users\\ohs30679\\Desktop\\3DADV\\Assets\\Scripts\\Data\\MasterData.cs",
               "RelativeToolTip": "Assets\\Scripts\\Data\\MasterData.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -670,11 +694,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 31,
               "Title": "BaseCharacterParameter.cs",
-              "DocumentMoniker": "C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\Assets\\Scripts\\BaseClass\\CharacterBasePrameter\\BaseCharacterParameter.cs",
+              "DocumentMoniker": "C:\\Users\\ohs30679\\Desktop\\3DADV\\Assets\\Scripts\\BaseClass\\CharacterBasePrameter\\BaseCharacterParameter.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\BaseClass\\CharacterBasePrameter\\BaseCharacterParameter.cs",
-              "ToolTip": "C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\Assets\\Scripts\\BaseClass\\CharacterBasePrameter\\BaseCharacterParameter.cs",
+              "ToolTip": "C:\\Users\\ohs30679\\Desktop\\3DADV\\Assets\\Scripts\\BaseClass\\CharacterBasePrameter\\BaseCharacterParameter.cs",
               "RelativeToolTip": "Assets\\Scripts\\BaseClass\\CharacterBasePrameter\\BaseCharacterParameter.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -682,11 +706,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 33,
               "Title": "PlayerController.cs",
-              "DocumentMoniker": "C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\Assets\\Scripts\\PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\ohs30679\\Desktop\\3DADV\\Assets\\Scripts\\PlayerController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
-              "ToolTip": "C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\Assets\\Scripts\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\ohs30679\\Desktop\\3DADV\\Assets\\Scripts\\PlayerController.cs",
               "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
               "ViewState": "AQIAABUAAAAAAAAAAAAIwC8AAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -694,11 +718,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 32,
               "Title": "MyRigidBody.cs",
-              "DocumentMoniker": "C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\Assets\\Scripts\\myRigidBody\\MyRigidBody.cs",
+              "DocumentMoniker": "C:\\Users\\ohs30679\\Desktop\\3DADV\\Assets\\Scripts\\myRigidBody\\MyRigidBody.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\myRigidBody\\MyRigidBody.cs",
-              "ToolTip": "C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\Assets\\Scripts\\myRigidBody\\MyRigidBody.cs",
+              "ToolTip": "C:\\Users\\ohs30679\\Desktop\\3DADV\\Assets\\Scripts\\myRigidBody\\MyRigidBody.cs",
               "RelativeToolTip": "Assets\\Scripts\\myRigidBody\\MyRigidBody.cs",
               "ViewState": "AQIAAFUAAAAAAAAAAAAmwG8AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -706,11 +730,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 34,
               "Title": "protectedSingletonMonoBehaviour.cs",
-              "DocumentMoniker": "C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\Assets\\Scripts\\BaseClass\\protectedSingletonMonoBehaviour.cs",
+              "DocumentMoniker": "C:\\Users\\ohs30679\\Desktop\\3DADV\\Assets\\Scripts\\BaseClass\\protectedSingletonMonoBehaviour.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\BaseClass\\protectedSingletonMonoBehaviour.cs",
-              "ToolTip": "C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\Assets\\Scripts\\BaseClass\\protectedSingletonMonoBehaviour.cs",
+              "ToolTip": "C:\\Users\\ohs30679\\Desktop\\3DADV\\Assets\\Scripts\\BaseClass\\protectedSingletonMonoBehaviour.cs",
               "RelativeToolTip": "Assets\\Scripts\\BaseClass\\protectedSingletonMonoBehaviour.cs",
               "ViewState": "AQIAACkAAAAAAAAAAAAQwC0AAABMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -718,11 +742,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 35,
               "Title": "CharacterControl.cs",
-              "DocumentMoniker": "C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\Assets\\Scripts\\BaseClass\\CharacterControl.cs",
+              "DocumentMoniker": "C:\\Users\\ohs30679\\Desktop\\3DADV\\Assets\\Scripts\\BaseClass\\CharacterControl.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\BaseClass\\CharacterControl.cs",
-              "ToolTip": "C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\Assets\\Scripts\\BaseClass\\CharacterControl.cs",
+              "ToolTip": "C:\\Users\\ohs30679\\Desktop\\3DADV\\Assets\\Scripts\\BaseClass\\CharacterControl.cs",
               "RelativeToolTip": "Assets\\Scripts\\BaseClass\\CharacterControl.cs",
               "ViewState": "AQIAAMUAAAAAAAAAAAAnwPEAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -730,11 +754,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 37,
               "Title": "StartUp.cs",
-              "DocumentMoniker": "C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\Assets\\Scripts\\StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\ohs30679\\Desktop\\3DADV\\Assets\\Scripts\\StartUp.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\StartUp.cs",
-              "ToolTip": "C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\Assets\\Scripts\\StartUp.cs",
+              "ToolTip": "C:\\Users\\ohs30679\\Desktop\\3DADV\\Assets\\Scripts\\StartUp.cs",
               "RelativeToolTip": "Assets\\Scripts\\StartUp.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -742,23 +766,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 51,
               "Title": "BitwiseUtility.cs",
               "DocumentMoniker": "C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\Assets\\Scripts\\StaticUtilities\\BitwiseUtility.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\StaticUtilities\\BitwiseUtility.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\Assets\\Scripts\\StaticUtilities\\BitwiseUtility.cs",
               "ToolTip": "C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\Assets\\Scripts\\StaticUtilities\\BitwiseUtility.cs",
-              "RelativeToolTip": "Assets\\Scripts\\StaticUtilities\\BitwiseUtility.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\Assets\\Scripts\\StaticUtilities\\BitwiseUtility.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAAAcAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-12T04:29:43.209Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 36,
               "Title": "LegsArmorStatus.cs",
-              "DocumentMoniker": "C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\Assets\\Scripts\\Status\\LegsArmorStatus.cs",
+              "DocumentMoniker": "C:\\Users\\ohs30679\\Desktop\\3DADV\\Assets\\Scripts\\Status\\LegsArmorStatus.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Status\\LegsArmorStatus.cs",
-              "ToolTip": "C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\Assets\\Scripts\\Status\\LegsArmorStatus.cs",
+              "ToolTip": "C:\\Users\\ohs30679\\Desktop\\3DADV\\Assets\\Scripts\\Status\\LegsArmorStatus.cs",
               "RelativeToolTip": "Assets\\Scripts\\Status\\LegsArmorStatus.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -766,11 +790,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 38,
               "Title": "ProtectedSingletonBaseClass.cs",
-              "DocumentMoniker": "C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\Assets\\Scripts\\BaseClass\\ProtectedSingletonBaseClass.cs",
+              "DocumentMoniker": "C:\\Users\\ohs30679\\Desktop\\3DADV\\Assets\\Scripts\\BaseClass\\ProtectedSingletonBaseClass.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\BaseClass\\ProtectedSingletonBaseClass.cs",
-              "ToolTip": "C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\Assets\\Scripts\\BaseClass\\ProtectedSingletonBaseClass.cs",
+              "ToolTip": "C:\\Users\\ohs30679\\Desktop\\3DADV\\Assets\\Scripts\\BaseClass\\ProtectedSingletonBaseClass.cs",
               "RelativeToolTip": "Assets\\Scripts\\BaseClass\\ProtectedSingletonBaseClass.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -778,46 +802,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 50,
               "Title": "TestControll.cs",
               "DocumentMoniker": "C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\Assets\\Scripts\\TestControll.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\TestControll.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\Assets\\Scripts\\TestControll.cs",
               "ToolTip": "C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\Assets\\Scripts\\TestControll.cs",
-              "RelativeToolTip": "Assets\\Scripts\\TestControll.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\Assets\\Scripts\\TestControll.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAD8AAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-22T09:40:07.239Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 39,
               "Title": "ArmsWeaponParts.cs",
               "DocumentMoniker": "C:\\Users\\ohs30679\\Desktop\\3DADV\\Assets\\Scripts\\BaseClass\\ArmsWeaponParts.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\Users\\ohs30679\\Desktop\\3DADV\\Assets\\Scripts\\BaseClass\\ArmsWeaponParts.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BaseClass\\ArmsWeaponParts.cs",
               "ToolTip": "C:\\Users\\ohs30679\\Desktop\\3DADV\\Assets\\Scripts\\BaseClass\\ArmsWeaponParts.cs",
-              "RelativeToolTip": "..\\..\\..\\Users\\ohs30679\\Desktop\\3DADV\\Assets\\Scripts\\BaseClass\\ArmsWeaponParts.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BaseClass\\ArmsWeaponParts.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-18T17:07:42.053Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 48,
               "Title": "CharacterStatus.cs",
               "DocumentMoniker": "C:\\Users\\ohs30679\\Desktop\\3DADV\\Assets\\Scripts\\CharacterStatus\\CharacterStatus.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\Users\\ohs30679\\Desktop\\3DADV\\Assets\\Scripts\\CharacterStatus\\CharacterStatus.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CharacterStatus\\CharacterStatus.cs",
               "ToolTip": "C:\\Users\\ohs30679\\Desktop\\3DADV\\Assets\\Scripts\\CharacterStatus\\CharacterStatus.cs",
-              "RelativeToolTip": "..\\..\\..\\Users\\ohs30679\\Desktop\\3DADV\\Assets\\Scripts\\CharacterStatus\\CharacterStatus.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CharacterStatus\\CharacterStatus.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-11T04:18:23.467Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 40,
               "Title": "BaseSceneManager.cs",
-              "DocumentMoniker": "C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\Assets\\Scripts\\BaseClass\\BaseSceneManager.cs",
+              "DocumentMoniker": "C:\\Users\\ohs30679\\Desktop\\3DADV\\Assets\\Scripts\\BaseClass\\BaseSceneManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\BaseClass\\BaseSceneManager.cs",
-              "ToolTip": "C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\Assets\\Scripts\\BaseClass\\BaseSceneManager.cs",
+              "ToolTip": "C:\\Users\\ohs30679\\Desktop\\3DADV\\Assets\\Scripts\\BaseClass\\BaseSceneManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\BaseClass\\BaseSceneManager.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -825,46 +849,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 49,
               "Title": "WeaponStatus.cs",
               "DocumentMoniker": "C:\\Users\\ohs30679\\Desktop\\3DADV\\Assets\\Scripts\\CharacterStatus\\WeaponStatus.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\Users\\ohs30679\\Desktop\\3DADV\\Assets\\Scripts\\CharacterStatus\\WeaponStatus.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CharacterStatus\\WeaponStatus.cs",
               "ToolTip": "C:\\Users\\ohs30679\\Desktop\\3DADV\\Assets\\Scripts\\CharacterStatus\\WeaponStatus.cs",
-              "RelativeToolTip": "..\\..\\..\\Users\\ohs30679\\Desktop\\3DADV\\Assets\\Scripts\\CharacterStatus\\WeaponStatus.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CharacterStatus\\WeaponStatus.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-18T10:45:34.386Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 47,
               "Title": "MoveParameter.cs",
               "DocumentMoniker": "C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\Assets\\Scripts\\CharacterStatus\\MoveParameter.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\CharacterStatus\\MoveParameter.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\Assets\\Scripts\\CharacterStatus\\MoveParameter.cs",
               "ToolTip": "C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\Assets\\Scripts\\CharacterStatus\\MoveParameter.cs",
-              "RelativeToolTip": "Assets\\Scripts\\CharacterStatus\\MoveParameter.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\Assets\\Scripts\\CharacterStatus\\MoveParameter.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-11T04:17:41.675Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 41,
               "Title": "MovingStatus.cs",
               "DocumentMoniker": "C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\Assets\\Scripts\\CharacterStatus\\MovingStatus.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\CharacterStatus\\MovingStatus.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\Assets\\Scripts\\CharacterStatus\\MovingStatus.cs",
               "ToolTip": "C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\Assets\\Scripts\\CharacterStatus\\MovingStatus.cs",
-              "RelativeToolTip": "Assets\\Scripts\\CharacterStatus\\MovingStatus.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\Assets\\Scripts\\CharacterStatus\\MovingStatus.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-24T11:22:30.468Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 44,
               "Title": "IGameManager.cs",
-              "DocumentMoniker": "C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\Assets\\Scripts\\GameManager\\IGameManager.cs",
+              "DocumentMoniker": "C:\\Users\\ohs30679\\Desktop\\3DADV\\Assets\\Scripts\\GameManager\\IGameManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager\\IGameManager.cs",
-              "ToolTip": "C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\Assets\\Scripts\\GameManager\\IGameManager.cs",
+              "ToolTip": "C:\\Users\\ohs30679\\Desktop\\3DADV\\Assets\\Scripts\\GameManager\\IGameManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\GameManager\\IGameManager.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -872,23 +896,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 42,
               "Title": "GameSceneManager.cs",
               "DocumentMoniker": "C:\\Users\\ohs30679\\Desktop\\3D\u8131\u51FA\u30B2\u30FC\u30E0\\Assets\\Scripts\\Game\\GameSceneManager.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\Users\\ohs30679\\Desktop\\3D\u8131\u51FA\u30B2\u30FC\u30E0\\Assets\\Scripts\\Game\\GameSceneManager.cs",
+              "RelativeDocumentMoniker": "..\\3D\u8131\u51FA\u30B2\u30FC\u30E0\\Assets\\Scripts\\Game\\GameSceneManager.cs",
               "ToolTip": "C:\\Users\\ohs30679\\Desktop\\3D\u8131\u51FA\u30B2\u30FC\u30E0\\Assets\\Scripts\\Game\\GameSceneManager.cs",
-              "RelativeToolTip": "..\\..\\..\\Users\\ohs30679\\Desktop\\3D\u8131\u51FA\u30B2\u30FC\u30E0\\Assets\\Scripts\\Game\\GameSceneManager.cs",
+              "RelativeToolTip": "..\\3D\u8131\u51FA\u30B2\u30FC\u30E0\\Assets\\Scripts\\Game\\GameSceneManager.cs",
               "ViewState": "AQIAAKUBAAAAAAAAAAAAAL0BAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-17T09:50:26.71Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 43,
               "Title": "NavMeshAssetManager.cs",
-              "DocumentMoniker": "C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\Library\\PackageCache\\com.unity.ai.navigation@1.1.5\\Editor\\NavMeshAssetManager.cs",
+              "DocumentMoniker": "C:\\Users\\ohs30679\\Desktop\\3DADV\\Library\\PackageCache\\com.unity.ai.navigation@1.1.5\\Editor\\NavMeshAssetManager.cs",
               "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.ai.navigation@1.1.5\\Editor\\NavMeshAssetManager.cs",
-              "ToolTip": "C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\Library\\PackageCache\\com.unity.ai.navigation@1.1.5\\Editor\\NavMeshAssetManager.cs",
+              "ToolTip": "C:\\Users\\ohs30679\\Desktop\\3DADV\\Library\\PackageCache\\com.unity.ai.navigation@1.1.5\\Editor\\NavMeshAssetManager.cs",
               "RelativeToolTip": "Library\\PackageCache\\com.unity.ai.navigation@1.1.5\\Editor\\NavMeshAssetManager.cs",
               "ViewState": "AQIAABoAAAAAAAAAAAAkwC4AAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -896,23 +920,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 45,
               "Title": "StartUp.cs",
               "DocumentMoniker": "C:\\Users\\ohs30679\\Desktop\\3DADV\\3DADV\\Assets\\Script\\StartUp.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\Users\\ohs30679\\Desktop\\3DADV\\3DADV\\Assets\\Script\\StartUp.cs",
+              "RelativeDocumentMoniker": "3DADV\\Assets\\Script\\StartUp.cs",
               "ToolTip": "C:\\Users\\ohs30679\\Desktop\\3DADV\\3DADV\\Assets\\Script\\StartUp.cs",
-              "RelativeToolTip": "..\\..\\..\\Users\\ohs30679\\Desktop\\3DADV\\3DADV\\Assets\\Script\\StartUp.cs",
+              "RelativeToolTip": "3DADV\\Assets\\Script\\StartUp.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-24T10:45:27.585Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 46,
               "Title": "Constants.cs",
-              "DocumentMoniker": "C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\Assets\\Scripts\\Data\\Constants.cs",
+              "DocumentMoniker": "C:\\Users\\ohs30679\\Desktop\\3DADV\\Assets\\Scripts\\Data\\Constants.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Data\\Constants.cs",
-              "ToolTip": "C:\\\u5236\u4F5C\\unity\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\3DADV\\Assets\\Scripts\\Data\\Constants.cs",
+              "ToolTip": "C:\\Users\\ohs30679\\Desktop\\3DADV\\Assets\\Scripts\\Data\\Constants.cs",
               "RelativeToolTip": "Assets\\Scripts\\Data\\Constants.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

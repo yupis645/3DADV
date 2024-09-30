@@ -5,6 +5,7 @@ using UnityEngine;
 public class RifleWeapon : WeaponBase
 {
     public int shotsFired;      //”­Ë”
+    public List<Bullet> bullet = new List<Bullet>();
     
 
     protected override void OnAttackUpdate()

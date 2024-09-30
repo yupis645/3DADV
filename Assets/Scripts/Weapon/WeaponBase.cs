@@ -5,7 +5,7 @@ using UnityEngine;
 
 public abstract class WeaponBase : MonoBehaviour
 {
-    protected delegate void attackEvent();
+    protected delegate void attackEvent();      //攻撃イベント
     protected event attackEvent StartAttack;
     protected event attackEvent EndAttack;
     protected event attackEvent HitObject;
@@ -14,9 +14,10 @@ public abstract class WeaponBase : MonoBehaviour
     // ステータス
     public WeaponStatus weaponStatus;
 
-    public float cooldowntimer;
-    public float Usingtimer;
-    public bool usecheck;
+    public Transform rockonTarget;
+
+    public bool usecheck;           //攻撃可能状態の確認
+    public bool reloadcheck;           
 
     protected Vector3 shotVec = Vector3.zero;
 
@@ -31,51 +32,40 @@ public abstract class WeaponBase : MonoBehaviour
     }
 
     // SetUpメソッドもサブクラスでオーバーライド可能
-    public virtual void SetUp()
+    public virtual void SetUp(Transform target)
     {
         Debug.Log($"{weaponStatus.WeaponName} initialized with Power: {weaponStatus.AttackPower}");
+        TargetSet(target);
+    }
+
+    public void TargetSet(Transform changetarget)
+    {
+        rockonTarget = changetarget;
     }
 
 
-    // UpdateCooldownメソッドも共通のロジック
-    public void UpdateCooldown()
-    {
-        bool cooldownend = TimerUtility.TimerCountDown(ref cooldowntimer, Time.deltaTime);
 
-        if (!cooldownend)
-        {
-            // クールダウン中の処理
-        }
-        else
-        {
-            cooldowntimer = 0;
-            usecheck = true;
-        }
-    }
-
-    protected virtual IEnumerator CooldownCoroutine(float cooldownDuration)
+    protected virtual IEnumerator CooldownCoroutine(float cooldownDuration ,bool checkbool)
     {
-        usecheck = false;
+        checkbool = false;
         yield return new WaitForSeconds(cooldownDuration);
-        usecheck = true;
+        checkbool = true;
     }
 
     // UseStartメソッドは共通のロジック
     protected virtual void OnStartAttack()
     {
-        shotVec = transform.forward;
-        Usingtimer = weaponStatus.UseTime;
-        usecheck = false;
+        shotVec = rockonTarget.position;          //発射方向の終点を設定(ロックオンしている対象のいた座標)   
+        StartCoroutine(CooldownCoroutine(weaponStatus.UseTime, usecheck));
     }
 
     protected virtual void OnEndAttack()
     {
-        StartCoroutine(CooldownCoroutine(weaponStatus.CoolDownTime));
-        cooldowntimer = weaponStatus.CoolDownTime;
+        StartCoroutine(CooldownCoroutine(weaponStatus.CoolDownTime,reloadcheck));
     }
-      protected virtual void OnAttackUpdate()
+    protected virtual void OnAttackUpdate()
     {
-        cooldowntimer = weaponStatus.CoolDownTime;
+
     }
 
     protected virtual void OnHitObject()

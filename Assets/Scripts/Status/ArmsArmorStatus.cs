@@ -16,6 +16,8 @@ public class ArmsArmorStatus : ScriptableObject
     public float FireArmMagnif;
     public float MeleeWeaponMagnif;
 
+    public WeaponBase haveWeapon;
+
     //=======================================================
     //          èâä˙âª
     //
@@ -25,5 +27,7 @@ public class ArmsArmorStatus : ScriptableObject
     {
         Debug.Log("initializeé¿çs");
     }
+
+    
 
 }

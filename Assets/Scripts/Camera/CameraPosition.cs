@@ -21,8 +21,8 @@ public class CameraPosition : MonoBehaviour
     private void FixedUpdate()
     {
 
-        transform.position = Vector3.Lerp(transform.position, Target.position, 3.0f);
-        transform.rotation = Quaternion.Lerp(transform.rotation, Target.rotation, 3.0f);
+        transform.position = Vector3.Lerp(transform.position, Target.position, 0.5f);
+        transform.rotation = Quaternion.Lerp(transform.rotation, Target.rotation, 0.5f);
 
     }
 }
